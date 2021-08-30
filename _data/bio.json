@@ -48,52 +48,52 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "",
+        "",
+        "",
+        "",
+        ""
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Marketing (expected Spring, 2022)",
+      "studyType": "B.B.A.",
+      "startDate": "2018-08-24",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": 3.94"",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Duke's Kauai",
+      "position": "Busser",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-07-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Actively clean and prepare tables for guests",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "",
+        ""
       ]
     },
     {
