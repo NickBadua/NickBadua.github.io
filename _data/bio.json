@@ -31,8 +31,7 @@
     {
       "name": "Analytics",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        ""
       ]
     },
     {
@@ -126,17 +125,11 @@
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
+      "title": "Dean's List",
+      "date": "Fall 2018-Spring 2021",
       "awarder": "",
       "summary": ""
     },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
   ],
   "references": [
     {
