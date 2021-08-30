@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: Why I Decided To Take ITM 352 As A Marketing Major
-# All dates must be YYYY-MM-DD format!
 date: 2021-08-31
 labels:
   - Marketing
