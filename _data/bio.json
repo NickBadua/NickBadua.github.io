@@ -47,13 +47,19 @@
   ],
   "skills": [
     {
-      "name": "",
+      "name": "Ability to work under pressure",
       "level": "",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Highly organized",
+      "level": "",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Team-oriented",
       "level": "",
       "keywords": [
       ]
@@ -125,10 +131,10 @@
   ],
   "awards": [
     {
-      "title": "Dean's List"
-      "date": "Fall 2018-Spring 2021"
+      "title": "Dean's List",
+      "date": "Fall 2018-Spring 2021",
       "awarder": "",
-      "summary": ""
+      "summary": "",
     },
   ],
   "references": [
