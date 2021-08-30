@@ -1,57 +1,47 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Nicholas Badua",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://nickbadua.github.io/images/molly.png",
+    "email": "nabb@hawaii.edu",
+    "phone": "808-635-4270",
+    "website": "https://nickbadua.github.io",
+    "summary": "I am studying for a B.B.A. in Marketing at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96766",
+      "city": "Lihue",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "NickBadua",
+        "url": "http://github.com/nickbadua"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Nicholas Badua",
+        "url": "https://www.linkedin.com/in/nicholas-badua-7202301b5/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Analytics",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Tennis",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Digital Art",
       "keywords": [
       ]
     }
