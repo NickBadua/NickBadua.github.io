@@ -51,7 +51,7 @@
       "studyType": "B.B.A.",
       "startDate": "2018-08-24",
       "endDate": "Present",
-      "gpa": 3.94"",
+      "gpa": "3.94",
       "courses": [
       ]
     }
@@ -72,10 +72,8 @@
     {
       "company": "Martin Roberts Design",
       "position": "Set-up Crew",
-      "website": "",
       "startDate": "2017-07-01",
       "endDate": "2018-01-05",
-      "summary": "",
       "highlights": [
         "Ensured that vehicles were properly loaded and ready for departure.",
         "Conducted the setup and takedown of weddings and receptions with a time constraint.",
