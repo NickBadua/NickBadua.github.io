@@ -44,26 +44,6 @@
       ]
     }
   ],
-  "skills": [
-    {
-      "name": "Ability to work under pressure",
-      "level": "",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Highly organized",
-      "level": "",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Team-oriented",
-      "level": "",
-      "keywords": [
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -103,14 +83,10 @@
       ]
     }
   ],
-  "volunteer": [
-  ],
   "awards": [
     {
       "title": "Dean's List",
-      "date": "Fall 2018-Spring 2021",
-      "awarder": "",
-      "summary": "",
+      "date": "Fall 2018-Spring 2021"
     },
   ],
   "references": [
