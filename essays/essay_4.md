@@ -25,6 +25,6 @@ This is absolutely true. I think, for most of the semester, I had been kinda jus
 <h3>I think the class can be improved to help my learning in the following ways:</h3>
 Like I’ve already said, pushing us to complete certain portions of labs on our own was huge in helping me learn the features of the programmign language. Of course, if I was a student who eagerly wanted to excel, I would already do this without the teacher forcing it on me, but I’m not--what can I say? 
 
-<h3>What helps me the most in class are: <h3>
+<h3>What helps me the most in class are: </h3>
 The labs help a lot in showing me how features in javascript/HTML can work to produce something. I think the examples in the labs are huge in helping me gain a better understanding of things. The screencasts also to a certain extent help me too, but I feel that I have learned the best through the Professor showing us, through the labs, how the feature in javascript/HTML can be used. A byproduct of this is teaching us what the feature actually is.
 
