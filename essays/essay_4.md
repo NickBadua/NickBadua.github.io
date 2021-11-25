@@ -7,7 +7,7 @@ labels:
   - ITM 352
 ---
 
-My programming skills have greatly improved in the following ways:
+<h2> My programming skills have greatly improved in the following ways: </h2>
 The biggest way my programming skills has improved is that I now have programming skills. The word ‘skills' is obviously used in a relative sense here but now I can actually understand what I’m looking at and can look at others’ code and (most times) decipher what the code is supposed to do. 
 
 I need to work on the following to improve my programming skills:
