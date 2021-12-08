@@ -10,7 +10,7 @@ labels:
 <h3>Provide a brief introduction to the assignment along with a link to this page for further details</h3>
 In this assignment, the only thing we really had to do was create a login page as well as a registration page. Unlike the previous assignment, we required the customer to log in before accessing the invoice. This information was then used to personalize the invoice with a greeting. Now this is a reflection of my experience working on Assignment 2.
 
-For more information on this assignment.
+For more information on this assignment click [here](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html).
   
 <h3>What did you learn from this assignment?</h3>
 From this, I learned how to use the file system to write. I also learned--the hard way--that nodemon restarts the server automatically whenever I do a writefilesync. What would happen is my quantities would revert to the original amounts even after the invoice because nodemon would stop and start the server. After DAYS of being stumped, I discovered that that wasn’t an issue if I used ‘node server.js.’ Other than that, It’s been a while since I worked on Assignment 2, but I’m pretty sure my methods were pretty much the same as assignment 1.
