@@ -27,9 +27,9 @@ Developing this assignment was different mostly because I had to change preexist
 <h3>Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging</h3>
 If I had to break it down, I spent probably 60% thinking about how to do something, 30% writing the code, and 10% debugging. Honestly, I think, because I spent so much time thinking about how to do something, there wasn’t much to debug.
 
-<h2>Describe what worked well with this project? What did not work well?</h2>
+<h3>Describe what worked well with this project? What did not work well?</h3>
 I remember having trouble keeping the quantities in the query string as I went from the products display page to the login to the invoice. For some reason, even though it was in the query string array while I was on the login page, after posting, it would disappear even though I did the exact same thing I did to carry the quantities from the products page to the login page. So I ended up having to change the action to include the quantities. 
 
-<h2>If you could go back in time and do things differently, what would you do differently?</h2>
+<h3>If you could go back in time and do things differently, what would you do differently?</h3>
 While I think googling was a quick fix to many of my issues, I think I should probably go ask the professor for help on some problems. I feel like he’d be able to explain to me the issue better and maybe give even me a better understanding of how things work.
 
