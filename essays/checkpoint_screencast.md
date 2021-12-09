@@ -7,7 +7,7 @@ labels:
   - Assignment3 Checkpoint
 ---
 
-Click [here](https://youtu.be/IQPG6cQy32Q) to watch my screencast answering the following questions:
+<h3>Click [here](https://youtu.be/IQPG6cQy32Q) to watch my screencast answering the following questions:</h3>
 
 1. Show what each page will look like. The pages do not have to be “functional” but the design should clear. Here is an example PPT prototype
 2. Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.
