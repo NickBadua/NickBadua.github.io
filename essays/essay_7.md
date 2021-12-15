@@ -8,28 +8,28 @@ labels:
 ---
 
 <h3>Briefly describe your system (e.g. A store selling Pokemon game cards)</h3>
-This is a store that sells tennis gear. Anywhere from rackets and tennis balls to tennis shoes and clothes. 
+This is a store that sells tennis gear. It’s like a general sports shop, but with an emphasis on tennis. We sell anything from rackets and tennis balls to tennis shoes and clothes.
 
 <h3>Any notable shortcomings, bugs, problems, or additional features not implemented?</h3>     
-Currently, when you make changes to your quantities on the shopping cart page, it doesn’t actually change the amount taken out of the inventory since that was taken out immediately after adding to the cart. 
+Overall, I’ve managed to settle most of the problems. There’s still a few UI design errors that show up depending on how you resize the window or if you use the website on a different browser, but I consciously decided to settle with I had for the sake of time. A feature that I really wanted to add was the ability to automatically log someone out after inactivity of 30 minutes. Currently, I have it set up so the cookie expires after 30 minutes and so they get logged out regardless if they were browsing for the whole 30 minutes or not. 
 
 <h3>Describe what you are most proud of about your system:</h3>
-I’m really proud of all the for-loops and arrays that I’ve had to construct in order to display the products and maintain quantities. While I was making it I was literally yelling out from the frustration but seeing that it all worked out (for the most part) makes me really proud. But overall, I’m really proud of everything about it. I mean, I look at it and just think about how a few months ago I couldn’t differentiate a <b> tag from a <br>.
+One of the last things I did was find a way to update the total amount we had in stock for a particular item if a user were to make changes after they added it to cart. Initially, since I was removing quantities from the inventory as soon as a user clicks the add to cart button, it wouldn’t update the stock available. That would result in this weird thing happening where sometimes, you wouldn’t even be able to get the current amount of items that you had in your cart because it would be compared to the stock amount property of the item, and it would see that it was more than the updated quantity after clicking the add to cart and prevent you from purchasing it. I literally sat down for 4 hours thinking it out and writing the what I wanted to happening in sudo code. FINALLY I thought up a solution, implemented the code, and it worked! I don’t know if it’s just because it is fresh in memory, or that I’m genuinely proud of it; regardless, I’m sooo happy that it’s working.
 
 <h3>Describe what you are least happy with your system:</h3>
-I am currently not happy with how my shopping cart quantities feature works because it doesn’t. When you change the quantities, it doesn’t update the inventory accordingly. As I am writing this, I was not able to think of a solution for it. 
+I am not happy with the design aspects. There are a ton of visual issues that arise from resizing the window. But the website itself is operational despite that so I decided to overlook that.  
 
 <h3>How was developing this assignment different than assignment #2?</h3>
-It was different in it that this assignment required me to read more on sessions. For some reason, during the class lab, I was following along, but I couldn’t wrap my mind around how a session could be used for a shopping cart. Basically, I had to do more reading/watching youtube tutorials specifically about sessions and cookies. My initial lack of understanding was probably why the brainstorming of how to approach assignment 3 took so long.
+It was different in it that this assignment required me to read more on sessions. For some reason, during the class lab, although I was following along, but I couldn’t wrap my mind around how a session could be used for a shopping cart. Basically, I had to do more reading/watching youtube tutorials (specifically about sessions and cookies) than I had to in the previous assignments. My initial lack of understanding was probably why the brainstorming of how to approach assignment 3 took so long.
 
 <h3>When you ran into a problem, what did you do to address it?</h3>
-My problems mostly arose during the brainstorming portion of writing the code. There are some things that I was just completely blank on. Whenever that happened, I would read some documentation to discover more about how something works. My last resort was looking up examples of code on google.
+My problems mostly arose during the brainstorming portion of writing the code. There are some things that I was just completely blank on. Whenever that happened, I would write down what I wanted to happen in steps, then in sudo code, and then finally actual code. It worked for the most part, and, if it didn’t, I would just use google to find documentation.
 
 <h3>Describe what worked well in doing this assignment?</h3>
-Actually reading the documentation worked really well. I definitely relied on documentation on this assignment much more than I did in previous assignments.
+Actually reading the documentation worked really well. I definitely relied on documentation on this assignment much more than I did in previous assignments. Also, opening my note pad and writing down the steps that I wanted to happen for a specific feature I was working on worked really well. 
 
 <h3>Describe what did not work well in doing this assignment?</h3>
-Trying to figure out how I could use sessions without really having a base understanding of it. That seems like a horrible way to approach an assignment in hindsight. It turned out to be much simpler than what I initially thought.
+Trying to figure out how I could use sessions without really having a base understanding of it. That seems like a horrible way to approach an assignment in hindsight. After reading the documentation, It turned out to be much simpler than what I initially thought.
 
 <h3>What did you learn from doing this assignment?</h3>
 I learned that maybe I should anticipate future assignments, especially if it builds off of the previous one. Thinking about future requirements would have saved me so much time. It took a good chunk of time just getting a working assignment 2 again after changing a few things for assignment 3. 
