@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: E5 Reflecting on Assignment2 Technical Essay
+title: Class Retrospective BLOG
 date: 2021-12-14
 labels:
   - Assignment3
